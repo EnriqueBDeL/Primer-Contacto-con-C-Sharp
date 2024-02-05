@@ -1,0 +1,10 @@
+C:\Users\enriq\Desktop\2º CUATRIMESTRE\Programación Visual\Practica 0\Practica 0\bin\Debug\Practica 0.exe.config
+C:\Users\enriq\Desktop\2º CUATRIMESTRE\Programación Visual\Practica 0\Practica 0\bin\Debug\Practica 0.exe
+C:\Users\enriq\Desktop\2º CUATRIMESTRE\Programación Visual\Practica 0\Practica 0\bin\Debug\Practica 0.pdb
+C:\Users\enriq\Desktop\2º CUATRIMESTRE\Programación Visual\Practica 0\Practica 0\obj\Debug\Practica 0.csproj.AssemblyReference.cache
+C:\Users\enriq\Desktop\2º CUATRIMESTRE\Programación Visual\Practica 0\Practica 0\obj\Debug\Practica_0.Form1.resources
+C:\Users\enriq\Desktop\2º CUATRIMESTRE\Programación Visual\Practica 0\Practica 0\obj\Debug\Practica_0.Properties.Resources.resources
+C:\Users\enriq\Desktop\2º CUATRIMESTRE\Programación Visual\Practica 0\Practica 0\obj\Debug\Practica 0.csproj.GenerateResource.cache
+C:\Users\enriq\Desktop\2º CUATRIMESTRE\Programación Visual\Practica 0\Practica 0\obj\Debug\Practica 0.csproj.CoreCompileInputs.cache
+C:\Users\enriq\Desktop\2º CUATRIMESTRE\Programación Visual\Practica 0\Practica 0\obj\Debug\Practica 0.exe
+C:\Users\enriq\Desktop\2º CUATRIMESTRE\Programación Visual\Practica 0\Practica 0\obj\Debug\Practica 0.pdb
