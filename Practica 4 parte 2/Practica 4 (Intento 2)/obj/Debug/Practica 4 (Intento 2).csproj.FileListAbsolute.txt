@@ -1,0 +1,23 @@
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 (Intento 2)\Practica 4 (Intento 2)\obj\Debug\Practica 4 (Intento 2).csproj.AssemblyReference.cache
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 (Intento 2)\Practica 4 (Intento 2)\obj\Debug\Practica_4__Intento_2_.Form1.resources
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 (Intento 2)\Practica 4 (Intento 2)\obj\Debug\Practica_4__Intento_2_.Form2.resources
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 (Intento 2)\Practica 4 (Intento 2)\obj\Debug\Practica 4 (Intento 2).csproj.GenerateResource.cache
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 (Intento 2)\Practica 4 (Intento 2)\obj\Debug\Practica 4 (Intento 2).csproj.CoreCompileInputs.cache
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 (Intento 2)\Practica 4 (Intento 2)\bin\Debug\Practica 4.exe.config
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 (Intento 2)\Practica 4 (Intento 2)\bin\Debug\Practica 4.exe
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 (Intento 2)\Practica 4 (Intento 2)\bin\Debug\Practica 4.pdb
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 (Intento 2)\Practica 4 (Intento 2)\obj\Debug\Practica_4.Properties.Resources.resources
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 (Intento 2)\Practica 4 (Intento 2)\obj\Debug\Practica 4.exe
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 (Intento 2)\Practica 4 (Intento 2)\obj\Debug\Practica 4.pdb
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 parte 2\Practica 4 (Intento 2)\bin\Debug\Practica 4 parte 2.exe.config
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 parte 2\Practica 4 (Intento 2)\bin\Debug\Practica 4 parte 2.exe
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 parte 2\Practica 4 (Intento 2)\bin\Debug\Practica 4 parte 2.pdb
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 parte 2\Practica 4 (Intento 2)\obj\Debug\Practica 4 (Intento 2).csproj.AssemblyReference.cache
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 parte 2\Practica 4 (Intento 2)\obj\Debug\Practica_4__Intento_2_.Form1.resources
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 parte 2\Practica 4 (Intento 2)\obj\Debug\Practica_4__Intento_2_.Form2.resources
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 parte 2\Practica 4 (Intento 2)\obj\Debug\Practica_4.Properties.Resources.resources
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 parte 2\Practica 4 (Intento 2)\obj\Debug\Practica 4 (Intento 2).csproj.GenerateResource.cache
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 parte 2\Practica 4 (Intento 2)\obj\Debug\Practica 4 (Intento 2).csproj.CoreCompileInputs.cache
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 parte 2\Practica 4 (Intento 2)\obj\Debug\Practica 4 parte 2.exe
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 parte 2\Practica 4 (Intento 2)\obj\Debug\Practica 4 parte 2.pdb
+C:\Users\enriq\Desktop\2º_CUATRIMESTRE\Programación Visual\Practica 4 parte 2\Practica 4 (Intento 2)\obj\Debug\Practica_4.Form3.resources
