@@ -1,0 +1,19 @@
+<?xml version='1.0'?>
+<notas>
+    <nota asignatura="PVA">
+        <nif>33322851Z</nif>
+        <calificacion>suspenso</calificacion>
+    </nota>
+    <nota asignatura="PVA">
+        <nif>32521133A</nif>
+        <calificacion>aprobado</calificacion>
+    </nota>
+    <nota asignatura="IA">
+        <nif>32658954B</nif>
+        <calificacion>aprobado</calificacion>
+    </nota>
+    <nota asignatura="IA">
+        <nif>36959685A</nif>
+        <calificacion>notable</calificacion>
+    </nota>
+</notas>

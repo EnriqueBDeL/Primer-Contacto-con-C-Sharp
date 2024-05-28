@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\Trabajos Visual Studio\Practica 10\Practica 10\bin\Debug\Practica 10.exe.config
+C:\Users\admin\Desktop\Trabajos Visual Studio\Practica 10\Practica 10\bin\Debug\Practica 10.exe
+C:\Users\admin\Desktop\Trabajos Visual Studio\Practica 10\Practica 10\bin\Debug\Practica 10.pdb
+C:\Users\admin\Desktop\Trabajos Visual Studio\Practica 10\Practica 10\obj\Debug\Practica 10.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Trabajos Visual Studio\Practica 10\Practica 10\obj\Debug\Practica_10.Form1.resources
+C:\Users\admin\Desktop\Trabajos Visual Studio\Practica 10\Practica 10\obj\Debug\Practica_10.Properties.Resources.resources
+C:\Users\admin\Desktop\Trabajos Visual Studio\Practica 10\Practica 10\obj\Debug\Practica 10.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Trabajos Visual Studio\Practica 10\Practica 10\obj\Debug\Practica 10.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Trabajos Visual Studio\Practica 10\Practica 10\obj\Debug\Practica 10.exe
+C:\Users\admin\Desktop\Trabajos Visual Studio\Practica 10\Practica 10\obj\Debug\Practica 10.pdb
